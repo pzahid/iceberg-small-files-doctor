@@ -1,0 +1,6 @@
+path,size_bytes
+s3://lake/t/a.parquet,2097152
+s3://lake/t/b.parquet,3145728
+s3://lake/t/c.parquet,1048576
+s3://lake/t/d.parquet,134217728
+s3://lake/t/e.parquet,4194304
